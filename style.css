@@ -22,4 +22,10 @@
     .w-40 {
         max-width: 100%;
     }
+    a {
+        font-size: 0.9rem;
+    }
+    .alert {
+        font-size: 1rem;
+    }
 }
