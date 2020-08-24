@@ -1,0 +1,24 @@
+.font-1 {
+    font-size: 0.8rem;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.w-40 {
+    max-width: 40%;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .w-40 {
+        max-width: 100%;
+    }
+}
